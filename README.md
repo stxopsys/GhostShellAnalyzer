@@ -14,7 +14,6 @@ Developed by `<starls/>`
 
 It also performs a **File Scan** of entropy on files (`.exe`, `.dll`, `.efi`, `.xml`, `.json`) in the current folder.
 
-![Preview](docs/screenshot.png)
 
 ---
 
